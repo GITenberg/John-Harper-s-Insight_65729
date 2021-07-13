@@ -1,11 +1,16 @@
 _repo: John-Harper-s-Insight_65729
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65729-h/images/cover.jpg
 creator:
   author:
     agent_name: Purcell, Dick
     gutenberg_agent_id: '34745'
     url: http://www.gutenberg.org/2009/agents/34745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65729#John-Harper-s-Insight
 gutenberg_issued: '2021-06-29'
 gutenberg_type: Text
 identifiers:
